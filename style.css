@@ -1,0 +1,47 @@
+.h11 {
+    color: red;
+}
+
+.h31 {
+    color: orangered;
+}
+
+.olist {
+    color: brown;
+    line-height: 50px;
+}
+
+.overline {
+    text-decoration-line: line-through;
+    font-weight: bold;
+}
+
+.bgyellow {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.h12 {
+    color: orangered;
+    font-style: italic;
+}
+
+.ulist {
+    color: brown;
+    letter-spacing: 5px;
+}
+
+.p1 {
+    color: rgba(75, 26, 5, 0.938);
+}
+
+a {
+    text-decoration: none;
+    background-color: yellow;
+    font-style: italic;
+}
